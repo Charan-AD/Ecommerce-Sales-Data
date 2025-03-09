@@ -1,3 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/d96acee1-729d-4c3b-8928-71cdfdaa4192)
+
+
+
 Introduction:
 In the world of e-commerce, understanding sales data is crucial for success. With Power BI, we've crafted a user-friendly dashboard to analyze and visualize online sales across different regions of India.
 
